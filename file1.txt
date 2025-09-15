@@ -1,2 +1,28 @@
 Hello IITM 
-This is me Ramrup Satpati and this is my repository
+This is me Ramrup Satpati (24F3004027) and this is my repository
+
+Day 1 Useful Notes Summarized :
+# Git Workflow Notes
+
+1. Always start by switching to the correct branch:
+   git switch <branch-name>
+
+2. Stage changes before committing:
+   git add <file1> <file2> ...
+
+3. Commit with a meaningful message:
+   git commit -m "Brief but descriptive commit message"
+
+4. Push changes to remote:
+   git push origin <branch-name>
+
+5. For feature work:
+   - Create a new branch for each feature
+   - Make commits incrementally
+   - Raise a Pull Request (PR) for review and merge
+
+6. After merging, delete merged feature branches locally and remotely:
+   git branch -d <branch-name>
+   git push origin --delete <branch-name>
+
+These practices keep the repo organized and make collaboration easier.
