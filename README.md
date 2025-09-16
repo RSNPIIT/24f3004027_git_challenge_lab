@@ -1,4 +1,10 @@
 # 24f3004027_git_challenge_lab
+Built by Ramrup Satpati
+Roll no : 24F3004027
+
+“See about_git_and_github.txt for IITM-only Git/GitHub workshop links.”
+will make it easy for visitors to notice the new file
+
 Git/GitHub challenge lab for IITM hands on workshop
 This is my repository for the special hands on worksop
 
