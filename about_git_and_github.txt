@@ -1,0 +1,19 @@
+To all the Students in The First Year (2025 - 29) batch or those who dont have a good knowledge about Git and Github please learn from below
+
+Day 1 : Hands on Using Git and DVCS (Distributed Version Control System)
+PPT link :
+https://docs.google.com/presentation/d/1aeh8YHQtC36z41Nr1eL4BWzx7CtULtdWceyoQgl8xP8/mobilepresent?slide=id.p
+
+Day 1 Recording :
+https://drive.google.com/file/d/1spgVtdb41q4QkXrY1a3fnGadREFGaWCm/view?usp=drivesdk
+
+Day  : Hands on with GitHub and Understanding the Github Architecture in Detail
+PPT link :
+https://docs.google.com/presentation/d/1XqAAMts5DjAMqbIq6HnWQP3UfQReDtl-wKgMXk-txkA/edit?usp=sharing
+
+Day 2 Recording :
+https://drive.google.com/file/d/1-GEOfvXzZYilYUjUtwb4Xx6vI1TVCgIZ/view?usp=drivesdk
+
+
+These can be opened and viewed by anyone inside IIT Madras 
+(Kindly Open with iitm.ac.in email id)
